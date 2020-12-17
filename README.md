@@ -8,4 +8,4 @@ Kunstig intelligens for opptelling av pingviner
 > Svar: 2 
 
 
-Prøv selg på [pingvin.spst.no](https://pingvin.spst.no).
+Prøv selv på [pingvin.spst.no](https://pingvin.spst.no).
